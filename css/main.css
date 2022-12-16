@@ -108,6 +108,7 @@
     margin: 10px 0px;
 }
 .card-btn{
+    text-decoration: none;
     border: none;
     padding: 5px 20px;
     background-color: #65647C;
